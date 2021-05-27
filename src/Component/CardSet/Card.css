@@ -1,0 +1,47 @@
+.card{
+    background-color: #F2F2F2;
+}
+
+.w-22{
+    width: 28rem;
+}
+.m-22{
+    margin-top:20px;
+    margin-bottom:20px ;
+}
+
+.text-green{
+    color:green;
+}
+
+.text-skyblue{
+    color:#1685C2;
+}
+
+.text-grey{
+    color:rgb(92, 92, 92);
+}
+
+.btn-green{
+    background-color: green; 
+    color:#fff;
+}
+
+.btn-skyblue{
+    background-color:#1685C2; 
+    color:#fff
+}
+
+.btn-red{
+    background-color:rgb(167, 47, 47); 
+    color:#fff
+}
+
+.btn-white{
+    background-color:#fff; 
+    color:Black
+}
+
+.headtitle{
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+
+.navbar{
+    background-color:#383E4C ;
+    color:#fff;
+
+}
+.active{
+    background-color: #495060;
+}
+.navbar .nav-link{
+    color: #fff;
+    border:1px solid #5A6171;
+    margin:5px 10px;
+}
+.navbar-nav{
+    margin:0 auto;
+}
